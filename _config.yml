@@ -13,18 +13,18 @@ safe: true
 # edit here to achieve your personal greatness
 url: http://sandeshdahake.github.io/
 baseurl: /blog/
-title: Chris Turner
-author: Chris Turner
+title: Sandesh Dahake
+author: Sandesh Dahake
 description: Personal blog and resume
-avatar: profile.png
-email: yourname@email.com
-github: jekyller/sustain # username
-twitter: username
-linkedin: username
-stackoverflow: username   #e.g: users/2735833/proton1h1
+avatar: sandesh.jpg
+email: sandeshdahake@gmail.com.com
+github: sandeshdahake # username
+twitter: sandeshdahake
+linkedin: sandeshdahake
+stackoverflow: /users/9299580/sandesh-dahake   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus
-disqus: username
-google_analytics: UA-69391421-1
+#disqus: username
+#google_analytics: UA-69391421-1
 
 
 # needed for travis-ci build
